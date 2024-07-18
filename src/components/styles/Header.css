@@ -1,0 +1,22 @@
+
+/* Header.css */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .title {
+    width: 68%;
+  }
+  
+  .title h1, .title h2 {
+    margin: 0;
+  }
+  
+  img {
+    width: 15%;
+    border-radius: 40%;
+  }
+  

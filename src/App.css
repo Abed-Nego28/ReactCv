@@ -1,0 +1,71 @@
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  border: 7px solid #7c6b4bf8; 
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 50cm;
+  margin: 0 auto;
+}
+
+.left-column,
+.right-column {
+  width: calc(50% - 10px);
+  padding: 10px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  width: 68%;
+}
+
+.title h1, .title h2 {
+  margin: 0;
+}
+
+img {
+  width: 15%;
+  border-radius: 40%;
+}
+
+section {
+  border: 2px solid #333;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #333;
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+h3 {
+  margin: 10px 0 5px;
+  color: #666;
+}
+
+p {
+  margin: 5px 0;
+}

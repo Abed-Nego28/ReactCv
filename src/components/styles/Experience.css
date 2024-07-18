@@ -1,0 +1,31 @@
+
+
+/* Experience.css */
+
+.experience {
+    border: 2px solid #333;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .experience h2 {
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+  }
+  
+  .experience ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .experience li {
+    margin-bottom: 5px;
+  }
+  
+  .experience h3 {
+    margin: 10px 0 5px;
+    color: #666;
+  }
+  

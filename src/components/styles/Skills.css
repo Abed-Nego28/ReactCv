@@ -1,0 +1,26 @@
+
+
+/* Skills.css */
+
+.skills {
+    border: 2px solid #333;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .skills h2 {
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+  }
+  
+  .skills ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .skills li {
+    margin-bottom: 5px;
+  }
+  

@@ -1,0 +1,31 @@
+
+
+/* Education.css */
+
+.education {
+    border: 2px solid #333;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .education h2 {
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+  }
+  
+  .education ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .education li {
+    margin-bottom: 5px;
+  }
+  
+  .education h3 {
+    margin: 10px 0 5px;
+    color: #666;
+  }
+  
